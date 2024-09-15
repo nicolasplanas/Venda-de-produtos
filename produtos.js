@@ -56,5 +56,5 @@ switch(entrada) {
     console.log('Aplicação fechada!, até breve...')
     break;
   default:
-    console.log('Opção não encontrada... \nNecessário reiniciar o aplicativo!')
+    console.log('Opção não encontrada...  \nNecessário reiniciar o aplicativo!')
 }
